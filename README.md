@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1><u>My Personal Details</u></h1>
-    <p><b>Name:</b> Mrudula Kale</p>
+    <p><b>Name:</b> Shradha Polkar </p>
     <p><strong>Age:</strong> 20</p>
     <p><i>Course:</i> Computer Engineering</p>
     <p><em>College:</em> Dhole patil College of Engineering</p>
